@@ -1,5 +1,4 @@
 # SMS-harassment
-博客:www.2016xlx.cn
 
 demo:http://demo.2018xsdl.live
 
